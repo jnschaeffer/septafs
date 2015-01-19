@@ -7,6 +7,6 @@ data.
 Usage
 =====
 
-`septafs -mountpoint=(mountpoint)"`
+`septafs -mountpoint=(mountpoint)`
 
 Currently only supports trolley and bus routes. Explore and have fun.
